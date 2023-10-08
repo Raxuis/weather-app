@@ -1,3 +1,4 @@
+# weather-app
 A simple weather app made in HTML/CSS and JavaScript
 <div align="center">
 <h1 align="center">
