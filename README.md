@@ -87,19 +87,6 @@ HTTPStatus Exception: 401
 </details>
 
 ---
-
-## 🚀 Getting Started
-
-***Dependencies***
-
-Please ensure you have the following dependencies installed on your system:
-
-`- ℹ️ Dependency 1`
-
-`- ℹ️ Dependency 2`
-
-`- ℹ️ ...`
-
 ### 🔧 Installation
 
 1. Clone the weather-app repository:
@@ -111,35 +98,7 @@ git clone https://github.com/Raxuis/weather-app
 ```sh
 cd weather-app
 ```
-
-3. Install the dependencies:
-```sh
-► INSERT-TEXT
-```
-
-### 🤖 Running weather-app
-
-```sh
-► INSERT-TEXT
-```
-
-### 🧪 Tests
-```sh
-► INSERT-TEXT
-```
-
 ---
-
-
-## 🛣 Roadmap
-
-> - [X] `ℹ️  Task 1: Implement X`
-> - [ ] `ℹ️  Task 2: Implement Y`
-> - [ ] `ℹ️ ...`
-
-
----
-
 ## 🤝 Contributing
 
 Contributions are always welcome! Please follow these steps:
